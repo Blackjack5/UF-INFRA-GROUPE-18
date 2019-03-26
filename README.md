@@ -1,6 +1,6 @@
 # UF-INFRA-GROUPE-18
 Loic Pierret
 Julien Chigot
-Sofian Roger
+Jéremy Massé
 Rendu 1
 Rendu 2
